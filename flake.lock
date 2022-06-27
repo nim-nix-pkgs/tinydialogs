@@ -43,11 +43,11 @@
     "src-tinydialogs-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1653661453,
-        "narHash": "sha256-QhcHMAHdWymozjCXHkawwNij7JyNxKS7qGUstCHvfnI=",
+        "lastModified": 1653760226,
+        "narHash": "sha256-dtOctVesorEW0DUPMBBBs+XoTiV2NvnHl6QGm4FoXLM=",
         "owner": "Patitotective",
         "repo": "tinydialogs",
-        "rev": "dfd147eed402937280d86b0dfb182c533001ab3e",
+        "rev": "53ed0ee42be840db2957a0aed082766b4b06b7bf",
         "type": "github"
       },
       "original": {
@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1653702463,
-        "narHash": "sha256-z0zRD3vhRxYjX0QGuq7xtL8uL+HIpakTH8m9f8OBgD4=",
+        "lastModified": 1656298156,
+        "narHash": "sha256-L43IHzGPuCqelqy2VB+uU1ohpVwXZYjHboNSqonuNNg=",
         "owner": "nim-nix-pkgs",
         "repo": "tinydialogs",
-        "rev": "94c8def5d1d3907894b7f737439e771c59b5da1d",
+        "rev": "c625f4f212a4681dca80ec7dc2e0739ae8b0eb1e",
         "type": "github"
       },
       "original": {
