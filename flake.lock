@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -45,11 +45,11 @@
     "src-tinydialogs-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1660944759,
-        "narHash": "sha256-ryg4xSlSGkih0OfivnHd42Zz2SbouNLysnSlufZvaLA=",
+        "lastModified": 1664036629,
+        "narHash": "sha256-r8Dps2gM9kYLM6CYtMRkhUZ9yt2aQu2GW5JZvj1B75I=",
         "owner": "Patitotective",
         "repo": "tinydialogs",
-        "rev": "710da90cb2f22bb2fcf1dd27ec62d01dd7103e38",
+        "rev": "b71b2dfd5705245fb94527be72f598af68af424c",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1662254890,
-        "narHash": "sha256-KUok4RwkXiRc7WHWOyNlmQ3VomTyUq6gZjdLXB+kCFA=",
+        "lastModified": 1667322743,
+        "narHash": "sha256-/jiOxTDROu8gwDalqZwqSX4mjvvu4DBefEjFcsLryoU=",
         "owner": "nim-nix-pkgs",
         "repo": "tinydialogs",
-        "rev": "5d3121e5518796f1c643000c71d8bdeae191d28d",
+        "rev": "d2d5967bd0da9fdba07cc901c9692932427247e4",
         "type": "github"
       },
       "original": {
